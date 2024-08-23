@@ -27,8 +27,7 @@
 
 ## Step 1 - Modeling our Data _hint_: **Three different models, three different files**
 
-- For this project you'll need three different models, budget, Expense and
-  Category.
+- For this project you'll need three different models, budget, Expense and Category.
 
 ### **Budget**
 

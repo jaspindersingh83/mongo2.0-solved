@@ -7,9 +7,14 @@
     "start": "nodemon server.js"
   },
   "keywords": [],
-  "author": "Lambda School",
+  "author": "Jaspinder Singh",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "mogoose": "^0.0.1-security",
+    "mongoose": "^8.5.3"
+  },
   "devDependencies": {
     "nodemon": "^1.17.2"
   }
